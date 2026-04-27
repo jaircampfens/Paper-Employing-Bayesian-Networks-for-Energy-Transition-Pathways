@@ -1,0 +1,1769 @@
+Age,Homeownership_status,Single_familly_house,Electric_car_ownership,Heat_pump_ownership,source,Perceived_economy,Education_level,Interest_in_politcs,Trust_in_media,Personal_network_PV,Number_of_people_exchanged,PV_adoption
+old,yes,yes,no,no,low,medium,yes,yes,medium,yes,low,no
+old,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,high,yes
+old,yes,no,no,no,low,medium,no,no,medium,yes,low,no
+very young,yes,yes,no,yes,low,high,no,yes,medium,no,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+very young,yes,no,no,no,low,high,no,no,high,yes,medium,yes
+very old,yes,yes,no,no,low,medium,no,no,low,yes,medium,no
+old,yes,yes,no,yes,medium,low,yes,yes,high,yes,medium,no
+old,no,no,no,yes,low,high,no,yes,low,yes,low,yes
+young,no,no,no,no,low,low,yes,no,high,yes,low,no
+young,yes,yes,yes,no,low,high,no,yes,high,yes,high,yes
+very young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,yes
+young,no,yes,no,no,low,medium,yes,yes,high,yes,high,yes
+very young,yes,yes,no,yes,low,high,no,no,low,yes,medium,yes
+young,no,no,no,yes,medium,medium,yes,no,medium,yes,high,no
+very old,no,yes,no,no,low,high,no,no,medium,yes,medium,yes
+very old,no,no,no,yes,low,high,no,yes,high,yes,medium,no
+old,yes,yes,yes,yes,low,high,yes,yes,low,yes,high,yes
+old,yes,no,no,no,low,low,no,yes,medium,yes,medium,no
+very old,yes,yes,no,no,medium,high,no,yes,low,yes,low,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,low,no
+young,yes,no,no,no,low,high,yes,yes,low,yes,low,no
+old,no,no,no,no,low,high,no,no,low,no,medium,no
+very young,yes,yes,no,yes,low,high,no,yes,high,yes,low,no
+young,yes,yes,no,yes,medium,high,no,yes,high,no,medium,no
+young,no,no,no,no,low,medium,no,no,medium,yes,low,no
+old,no,no,yes,no,high,high,yes,yes,high,yes,high,no
+young,yes,yes,yes,no,low,low,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,high,no,no,medium,yes,low,yes
+young,yes,no,no,no,low,high,yes,no,medium,yes,high,no
+very young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,low,yes,medium,yes
+very young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,no,no,yes,low,high,no,yes,low,yes,medium,no
+young,yes,no,no,yes,low,high,no,yes,medium,yes,low,no
+young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,high,yes
+old,yes,yes,no,yes,low,high,yes,yes,medium,yes,high,yes
+young,yes,yes,no,yes,high,high,no,yes,low,yes,high,yes
+young,no,no,no,no,low,medium,no,yes,high,no,medium,no
+young,yes,yes,yes,yes,medium,high,yes,no,medium,yes,high,yes
+young,yes,yes,no,yes,medium,high,yes,yes,high,yes,medium,no
+young,yes,no,no,no,medium,high,yes,yes,medium,yes,high,no
+old,yes,yes,no,no,low,high,yes,yes,high,yes,medium,yes
+young,yes,no,no,yes,low,medium,no,yes,high,yes,high,yes
+young,yes,no,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,medium,no
+old,yes,yes,yes,no,low,low,no,yes,high,yes,medium,yes
+very young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,yes
+young,no,yes,no,no,low,high,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,no
+very old,no,yes,no,no,low,medium,no,yes,high,yes,medium,no
+very young,no,no,no,no,low,medium,no,yes,medium,yes,medium,no
+very young,no,yes,no,no,medium,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,high,yes,high,yes
+very old,yes,yes,no,no,low,high,yes,yes,medium,yes,high,yes
+old,yes,yes,no,yes,low,low,yes,no,low,yes,medium,no
+very young,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,yes
+very old,yes,yes,no,yes,low,high,no,yes,low,yes,high,yes
+young,yes,no,no,no,low,high,yes,yes,high,yes,high,no
+young,yes,yes,no,yes,medium,low,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,medium,yes
+very old,yes,no,no,no,low,low,no,yes,high,yes,medium,no
+very old,yes,yes,no,yes,low,high,no,yes,medium,yes,high,yes
+old,no,no,no,no,low,low,no,no,high,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,low,yes,medium,no
+old,yes,yes,yes,no,low,medium,no,yes,medium,yes,medium,yes
+very old,no,no,no,no,low,medium,no,yes,low,yes,low,no
+very young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+very young,yes,no,no,no,low,low,no,yes,low,yes,medium,no
+very young,yes,yes,no,yes,low,high,yes,yes,high,yes,low,yes
+old,yes,yes,no,yes,low,high,no,no,low,yes,medium,no
+young,no,no,no,no,low,medium,yes,yes,low,no,low,no
+very old,no,yes,no,yes,low,medium,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,medium,no,yes,low,yes,low,yes
+old,yes,yes,no,no,low,medium,no,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,no
+very young,yes,yes,no,no,low,medium,yes,yes,low,yes,medium,no
+very young,yes,no,no,yes,low,high,no,yes,medium,yes,low,no
+very old,no,no,no,no,low,high,no,yes,low,yes,high,no
+very old,yes,no,no,no,low,low,no,yes,high,yes,low,no
+young,yes,no,yes,yes,medium,high,yes,yes,high,yes,medium,yes
+young,yes,no,no,no,low,high,no,yes,high,yes,medium,yes
+young,yes,yes,yes,yes,low,low,yes,yes,medium,yes,medium,yes
+old,no,yes,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,yes,yes,low,low,yes,yes,high,yes,medium,no
+very young,yes,yes,yes,yes,low,high,no,no,high,yes,medium,yes
+young,yes,no,no,yes,low,low,yes,no,high,yes,low,no
+very old,no,no,no,no,low,medium,yes,no,medium,yes,low,no
+old,yes,no,yes,no,low,low,yes,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,medium,medium,yes,yes,high,yes,high,no
+very old,no,yes,no,yes,low,high,yes,yes,high,no,medium,no
+young,yes,yes,yes,yes,medium,high,yes,yes,medium,yes,medium,yes
+old,no,no,no,no,low,high,no,yes,medium,no,high,no
+young,yes,yes,yes,yes,low,high,yes,yes,low,yes,high,yes
+very old,no,no,no,yes,medium,high,no,yes,high,yes,high,yes
+very old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+very young,yes,no,no,yes,low,low,no,yes,high,yes,low,no
+old,yes,no,no,no,medium,low,yes,no,high,yes,medium,yes
+very old,yes,yes,no,no,low,high,no,no,medium,no,medium,no
+very young,yes,yes,no,yes,low,medium,yes,yes,high,yes,high,no
+young,yes,yes,no,no,low,high,yes,no,low,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,medium,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+old,no,no,no,no,low,high,yes,no,low,yes,high,no
+young,yes,no,no,yes,low,low,yes,yes,medium,yes,low,yes
+young,yes,yes,no,no,medium,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,no,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,low,yes,high,yes
+young,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,yes
+old,no,no,no,yes,medium,medium,yes,yes,medium,yes,high,no
+old,yes,no,no,yes,low,medium,yes,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+very young,yes,no,no,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,no,medium,yes
+young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,low,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,low,no,yes,low,yes,medium,no
+young,yes,yes,yes,yes,low,high,no,yes,high,yes,medium,yes
+young,yes,no,no,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,low,yes,low,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+young,yes,no,no,yes,low,low,yes,yes,low,yes,low,yes
+very young,yes,yes,no,yes,low,high,yes,yes,high,yes,low,no
+very young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,medium,yes
+old,yes,no,no,yes,low,low,yes,yes,high,yes,low,yes
+old,yes,no,yes,no,low,medium,yes,yes,high,yes,low,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,low,yes,yes,low,yes,medium,no
+very young,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,low,no
+young,yes,yes,no,yes,medium,high,yes,no,low,yes,medium,yes
+old,yes,yes,yes,yes,low,high,no,yes,medium,yes,medium,yes
+young,no,no,no,no,low,high,no,yes,low,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,medium,yes,medium,no
+very old,no,no,no,yes,low,high,no,yes,medium,yes,high,yes
+young,yes,yes,yes,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,medium,yes,medium,yes
+old,yes,no,no,no,low,medium,yes,yes,low,yes,medium,no
+old,yes,yes,no,no,low,low,yes,no,low,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,low,yes,low,no
+old,no,no,no,no,medium,high,yes,yes,high,yes,medium,no
+very old,no,yes,no,yes,low,medium,no,no,medium,yes,low,yes
+old,no,no,no,no,low,high,yes,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,yes,yes,high,yes,low,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+old,yes,no,no,yes,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,high,no
+young,yes,no,no,no,low,high,yes,yes,high,yes,medium,yes
+old,no,no,no,no,medium,low,yes,no,low,yes,medium,no
+old,yes,yes,yes,no,medium,low,yes,yes,low,yes,high,no
+very young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+old,yes,yes,no,no,low,high,yes,no,high,yes,medium,yes
+young,yes,no,yes,no,low,low,yes,yes,medium,yes,medium,no
+young,yes,no,no,yes,high,high,yes,yes,high,yes,high,yes
+very young,yes,yes,no,yes,low,medium,no,no,low,yes,medium,yes
+young,yes,yes,yes,yes,low,high,no,yes,medium,yes,high,yes
+very old,no,yes,no,yes,low,low,no,yes,medium,yes,medium,no
+very old,yes,no,no,yes,low,medium,yes,yes,medium,yes,high,yes
+old,yes,no,no,no,low,medium,yes,yes,low,yes,medium,no
+old,yes,no,yes,yes,low,high,yes,yes,high,yes,high,no
+very old,no,yes,no,yes,low,low,no,yes,high,yes,high,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,low,no
+young,yes,no,no,no,low,high,yes,yes,high,yes,high,no
+very old,no,yes,yes,no,low,high,no,yes,medium,no,medium,no
+young,yes,yes,no,no,low,medium,no,no,low,yes,low,no
+old,no,yes,no,no,low,low,yes,yes,low,yes,medium,no
+very young,no,yes,no,no,medium,medium,no,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,yes
+old,yes,no,no,yes,low,high,yes,yes,high,yes,low,no
+young,yes,yes,no,yes,low,high,yes,no,low,yes,high,no
+old,no,no,no,yes,low,low,yes,no,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,no,low,no
+old,yes,yes,no,no,low,low,no,yes,high,yes,high,no
+very old,no,yes,yes,yes,low,high,no,no,medium,yes,low,yes
+old,yes,yes,no,yes,medium,low,yes,yes,medium,yes,medium,no
+young,yes,yes,yes,yes,low,medium,yes,yes,low,yes,medium,yes
+young,no,no,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+very old,no,yes,no,yes,low,medium,no,yes,high,yes,low,no
+very old,no,yes,no,yes,medium,low,yes,no,low,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,no,medium,yes,high,yes
+young,yes,no,yes,yes,low,medium,yes,yes,high,yes,medium,no
+very young,yes,yes,no,no,high,high,yes,yes,medium,yes,high,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,yes
+old,yes,no,no,no,low,medium,yes,no,low,yes,medium,no
+very old,no,no,no,no,medium,high,no,no,low,no,low,no
+very young,yes,no,yes,yes,low,high,no,yes,high,yes,medium,no
+very young,yes,no,yes,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,low,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,medium,no,no,medium,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,medium,yes
+young,yes,yes,yes,yes,medium,medium,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,low,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,low,no
+very young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,high,yes,yes,medium,no,low,no
+very young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,low,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,yes
+old,yes,yes,no,yes,low,high,yes,yes,medium,no,medium,yes
+young,yes,no,no,no,low,medium,no,yes,medium,yes,low,no
+very old,yes,yes,yes,yes,low,high,no,no,low,yes,medium,yes
+old,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,yes
+old,yes,yes,yes,no,low,high,yes,yes,medium,yes,high,yes
+young,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,yes,no,low,high,yes,yes,low,yes,medium,no
+very young,no,yes,no,no,low,high,no,yes,medium,yes,medium,no
+old,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,low,no,no,medium,yes,medium,no
+old,yes,yes,no,yes,medium,high,yes,yes,high,yes,high,no
+young,yes,yes,no,no,medium,high,yes,yes,medium,yes,low,no
+young,yes,yes,no,yes,low,high,no,yes,low,yes,low,yes
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,yes
+old,yes,yes,no,no,low,low,yes,no,low,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,no,medium,yes,low,no
+old,no,no,no,no,low,low,no,no,medium,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,low,no,medium,no
+young,yes,yes,no,yes,low,low,no,yes,low,yes,high,yes
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+old,yes,no,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,medium,yes
+very old,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,medium,medium,yes,yes,medium,yes,medium,no
+young,no,yes,no,no,low,medium,no,yes,medium,no,high,no
+young,yes,yes,yes,no,low,high,yes,yes,medium,yes,high,yes
+very young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+young,yes,yes,yes,yes,low,medium,yes,yes,high,yes,high,yes
+young,no,no,no,no,low,medium,yes,no,low,yes,medium,yes
+young,yes,no,yes,no,low,medium,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+young,no,no,no,no,low,medium,no,yes,low,yes,low,no
+young,yes,no,yes,yes,medium,high,yes,yes,low,no,medium,yes
+very old,no,no,no,yes,low,low,no,yes,medium,yes,high,no
+old,yes,no,no,no,low,low,no,yes,low,yes,low,no
+old,yes,yes,yes,yes,low,medium,yes,no,high,yes,medium,yes
+old,yes,yes,yes,no,low,high,yes,yes,medium,yes,high,no
+very young,yes,no,no,yes,low,medium,yes,no,medium,yes,medium,yes
+very young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,yes
+old,no,no,no,no,low,high,no,yes,low,yes,medium,no
+very old,no,yes,no,yes,low,high,no,no,medium,yes,medium,no
+very young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,yes
+very young,yes,yes,no,yes,medium,medium,yes,yes,medium,yes,high,no
+old,no,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,medium,no,no,medium,no,medium,yes
+old,yes,no,no,no,low,low,no,no,high,no,medium,no
+very young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,medium,high,yes,yes,medium,yes,high,no
+young,yes,no,no,no,low,high,yes,no,low,no,medium,yes
+very young,yes,yes,no,yes,medium,medium,no,yes,medium,yes,high,yes
+very young,yes,yes,no,no,low,high,no,yes,medium,yes,low,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,medium,no,yes,medium,no,medium,no
+young,yes,yes,no,yes,medium,high,no,yes,high,yes,high,no
+young,yes,yes,yes,no,low,high,no,yes,low,yes,high,no
+old,no,no,no,no,low,high,yes,no,medium,yes,low,no
+old,yes,no,no,yes,low,medium,no,no,medium,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,yes
+very young,yes,yes,no,no,low,medium,yes,yes,medium,yes,low,no
+old,no,no,no,no,low,low,yes,yes,high,yes,low,no
+very old,no,no,no,no,low,low,no,no,low,yes,medium,no
+old,yes,no,no,yes,low,medium,no,no,high,no,low,yes
+young,yes,yes,yes,no,low,high,yes,no,medium,yes,high,yes
+very old,no,no,no,no,low,high,no,yes,medium,yes,medium,no
+old,yes,no,no,yes,medium,high,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,low,yes,medium,no
+old,yes,yes,no,no,low,medium,yes,yes,medium,yes,medium,no
+young,no,no,yes,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,high,no,yes,high,yes,medium,no
+old,no,no,yes,yes,low,high,yes,no,low,yes,low,no
+old,yes,yes,no,no,low,medium,yes,no,high,no,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+old,no,no,no,no,low,low,no,yes,low,yes,medium,no
+very old,no,no,no,no,medium,high,no,yes,low,yes,medium,no
+young,yes,no,no,no,low,high,yes,yes,medium,no,low,no
+old,yes,no,no,no,low,low,no,no,high,yes,high,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,medium,yes,medium,no
+old,yes,yes,no,no,low,low,yes,no,low,yes,medium,no
+young,yes,yes,no,yes,medium,low,no,yes,high,yes,medium,yes
+young,yes,yes,yes,yes,low,low,yes,no,low,yes,medium,yes
+young,yes,yes,yes,no,medium,high,yes,yes,low,yes,high,yes
+young,yes,yes,no,no,low,medium,no,no,low,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,no,high,no
+old,no,yes,no,yes,low,medium,yes,yes,low,yes,medium,no
+very young,yes,yes,yes,no,low,medium,yes,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+old,yes,no,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,medium,yes,yes,medium,yes,medium,no
+old,yes,yes,yes,yes,low,low,no,yes,low,yes,high,yes
+young,yes,no,yes,no,low,high,yes,no,high,yes,high,no
+young,yes,yes,no,yes,low,low,no,no,low,no,low,no
+old,no,no,no,no,low,low,no,no,low,yes,high,yes
+young,yes,yes,yes,no,low,low,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,medium,no,medium,yes
+old,yes,yes,yes,yes,low,low,no,yes,high,yes,high,yes
+young,yes,no,yes,no,low,high,no,yes,high,no,medium,yes
+old,no,yes,yes,yes,low,low,yes,yes,high,yes,low,no
+very old,yes,yes,no,yes,low,high,no,no,medium,yes,low,no
+young,yes,no,no,yes,medium,low,yes,yes,low,yes,medium,no
+very young,yes,no,no,yes,low,medium,yes,yes,high,yes,low,no
+old,yes,yes,yes,yes,low,medium,yes,yes,medium,yes,high,no
+young,yes,yes,no,no,low,high,yes,yes,high,yes,high,no
+young,yes,no,no,no,low,medium,no,yes,high,no,medium,no
+young,yes,yes,no,no,medium,medium,yes,yes,high,yes,medium,no
+young,yes,no,yes,no,low,medium,yes,yes,medium,yes,medium,no
+old,yes,no,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,low,no
+very old,no,no,no,yes,low,high,no,yes,medium,yes,medium,no
+young,yes,no,yes,yes,low,low,yes,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,no,no,medium,yes,medium,no
+young,yes,no,no,no,low,medium,yes,yes,high,yes,high,no
+very old,no,no,no,no,high,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,yes
+young,yes,no,no,no,medium,medium,no,yes,medium,no,low,no
+old,no,no,no,no,medium,high,no,yes,low,yes,low,no
+very old,no,yes,no,yes,low,medium,yes,yes,high,yes,low,no
+very old,no,no,no,no,low,high,yes,yes,high,yes,medium,no
+young,no,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+very young,yes,yes,yes,yes,low,low,yes,yes,medium,yes,high,yes
+old,no,no,no,yes,low,medium,no,no,low,yes,medium,no
+very young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,high,no,no,medium,yes,medium,no
+very young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+old,no,no,no,no,low,medium,yes,no,medium,yes,medium,no
+old,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+very young,yes,yes,no,no,low,medium,yes,yes,medium,yes,high,no
+young,yes,yes,yes,no,medium,medium,yes,yes,medium,yes,high,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,low,yes
+young,yes,no,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,high,yes
+young,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,yes,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,high,yes
+old,yes,yes,yes,yes,medium,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,low,no,medium,no
+very young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+very old,no,yes,yes,yes,low,high,no,no,low,yes,medium,yes
+very young,yes,yes,yes,yes,low,high,no,yes,high,yes,low,yes
+very young,yes,no,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,medium,yes
+young,yes,no,no,no,low,high,no,yes,medium,yes,high,no
+young,no,no,no,no,low,medium,yes,no,low,no,medium,yes
+very young,yes,no,no,no,low,high,yes,no,high,yes,medium,no
+young,yes,no,no,yes,low,medium,yes,yes,low,yes,high,no
+young,yes,yes,no,no,low,high,no,no,high,yes,high,yes
+very young,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,no
+very old,no,no,no,no,low,high,yes,no,medium,yes,medium,no
+young,yes,no,no,yes,low,low,yes,no,low,yes,medium,no
+old,no,no,no,yes,low,low,yes,yes,high,no,medium,yes
+young,yes,yes,no,yes,low,high,no,no,medium,yes,medium,no
+young,yes,no,no,no,low,high,yes,no,high,yes,medium,no
+old,no,no,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,no,yes,high,yes,low,no
+young,yes,yes,no,no,low,low,no,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,high,no,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,yes
+young,yes,no,no,no,low,medium,yes,yes,high,yes,medium,no
+old,no,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,low,yes,yes,low,yes,medium,no
+very old,no,no,no,yes,low,low,no,no,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,yes,no,high,no,low,no
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+very young,yes,no,no,yes,low,high,yes,yes,low,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,yes,low,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,high,yes
+young,yes,no,no,no,low,high,yes,yes,low,yes,high,yes
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,yes
+very young,yes,yes,yes,yes,low,medium,yes,yes,high,yes,medium,no
+very young,yes,no,yes,yes,low,high,no,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,no,low,no,low,no
+old,yes,yes,no,yes,low,medium,yes,no,low,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,no
+old,no,no,no,no,low,medium,no,yes,low,yes,medium,no
+young,no,no,no,yes,low,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,low,yes,yes,high,yes,high,no
+young,yes,yes,no,yes,high,low,yes,yes,medium,yes,high,yes
+very old,no,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,low,yes,medium,no
+old,yes,yes,no,yes,low,high,no,yes,high,yes,medium,no
+old,no,no,no,yes,low,medium,yes,no,medium,yes,low,no
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,no,low,low,no,yes,high,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,low,no
+very young,yes,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+old,no,yes,no,no,low,medium,yes,no,high,yes,medium,no
+very old,no,yes,no,yes,low,low,yes,yes,medium,yes,low,no
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,yes
+old,no,no,no,no,low,high,yes,yes,high,yes,low,no
+young,no,yes,no,no,low,medium,yes,no,low,no,low,no
+old,no,no,no,no,low,high,yes,yes,high,yes,high,no
+young,yes,yes,yes,yes,low,high,yes,yes,low,yes,high,yes
+old,no,no,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,low,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+young,yes,no,no,yes,low,medium,yes,no,medium,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,low,yes,medium,no
+young,yes,no,no,no,low,low,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,low,no,no,low,yes,medium,yes
+young,yes,no,no,no,low,high,yes,no,low,yes,medium,no
+very young,yes,yes,no,no,low,high,no,yes,high,yes,high,yes
+young,yes,no,no,yes,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,high,no
+old,yes,yes,no,no,low,low,yes,no,medium,yes,high,no
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,yes
+very young,yes,yes,no,no,low,high,yes,no,medium,yes,medium,no
+very young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,yes
+old,no,no,no,no,low,medium,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,high,yes
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+very young,yes,yes,no,yes,low,high,yes,no,medium,yes,medium,no
+old,yes,yes,no,no,low,low,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+old,yes,no,no,yes,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+young,yes,no,no,yes,low,medium,yes,yes,low,yes,medium,no
+young,yes,no,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,high,no,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,medium,yes,medium,no
+old,no,no,no,yes,low,high,yes,yes,medium,yes,low,yes
+young,yes,no,yes,no,low,high,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,low,no,yes,medium,no,medium,no
+very young,yes,no,no,no,low,low,yes,yes,low,no,low,no
+young,yes,no,no,no,low,high,no,yes,low,yes,medium,yes
+old,yes,yes,yes,yes,low,low,yes,yes,high,yes,low,no
+young,yes,yes,yes,yes,low,high,no,yes,medium,yes,high,yes
+very old,no,no,no,no,low,high,yes,no,medium,no,low,no
+young,yes,yes,no,yes,medium,high,yes,yes,high,yes,medium,yes
+young,yes,yes,yes,yes,low,medium,no,yes,low,yes,medium,no
+old,yes,no,no,yes,low,low,no,yes,low,yes,high,no
+old,yes,no,no,no,medium,high,yes,yes,medium,yes,high,no
+old,no,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+young,no,no,no,no,low,medium,no,no,high,yes,low,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,low,no
+very young,yes,no,no,yes,low,medium,yes,yes,low,yes,low,no
+young,yes,no,no,yes,low,medium,yes,yes,low,yes,medium,no
+young,yes,no,no,yes,low,medium,yes,yes,medium,yes,low,yes
+very young,yes,yes,no,no,low,medium,no,yes,medium,yes,high,yes
+old,yes,yes,no,no,low,high,no,yes,low,yes,low,no
+young,no,no,no,no,low,high,no,no,low,yes,medium,no
+old,yes,yes,no,no,low,medium,yes,yes,low,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,medium,yes,no,medium,yes,medium,yes
+old,no,no,no,yes,low,high,yes,yes,high,yes,high,no
+young,yes,yes,no,no,medium,high,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,low,no,yes,low,yes,high,no
+young,yes,yes,yes,yes,low,high,yes,yes,low,no,medium,no
+very old,yes,no,no,no,low,medium,no,no,high,yes,medium,yes
+old,yes,no,no,no,low,medium,no,no,low,yes,low,no
+old,yes,yes,no,no,medium,high,yes,yes,medium,no,medium,no
+very old,no,no,no,yes,low,medium,no,no,medium,yes,high,yes
+young,yes,yes,yes,yes,low,medium,yes,no,low,yes,medium,yes
+young,yes,yes,no,no,low,low,yes,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,medium,yes,low,no
+old,no,no,no,no,medium,low,no,yes,low,yes,high,no
+young,no,no,no,no,low,medium,no,yes,medium,no,low,no
+old,yes,yes,no,no,low,medium,no,no,high,yes,high,yes
+very old,no,yes,no,no,low,medium,no,no,low,yes,low,no
+young,yes,no,no,yes,low,medium,no,no,low,yes,medium,yes
+old,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,no
+young,yes,no,no,no,low,low,no,yes,high,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,high,no,medium,yes
+very old,no,yes,no,no,low,high,no,no,low,yes,medium,no
+very young,yes,no,no,yes,medium,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,high,no,medium,no
+young,no,no,no,no,low,low,no,yes,low,yes,medium,no
+old,yes,yes,no,no,low,high,yes,no,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,high,yes
+old,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+old,yes,yes,yes,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,yes,no,yes,no,low,medium,yes,yes,high,yes,medium,no
+young,no,yes,no,no,low,medium,no,yes,medium,yes,low,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,medium,no,medium,no
+very young,yes,no,no,no,low,high,no,yes,high,yes,low,no
+young,yes,yes,no,yes,low,high,yes,no,medium,yes,medium,no
+young,no,no,no,no,low,high,no,yes,high,no,low,no
+very young,yes,yes,no,no,low,medium,yes,yes,low,no,low,yes
+very young,yes,no,no,yes,low,medium,yes,yes,high,yes,high,yes
+very young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,yes
+old,yes,yes,no,no,medium,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,high,no
+old,yes,yes,no,yes,low,high,no,yes,low,yes,high,no
+old,yes,no,no,yes,low,medium,yes,no,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,high,yes,high,no
+very young,yes,yes,no,no,low,low,yes,yes,low,yes,low,no
+old,yes,yes,no,yes,medium,high,yes,yes,medium,yes,medium,yes
+old,no,no,no,no,low,medium,yes,yes,medium,no,medium,no
+old,no,no,yes,no,low,high,yes,yes,high,yes,medium,no
+young,yes,no,yes,yes,low,medium,yes,no,medium,yes,low,yes
+young,yes,yes,no,no,low,low,no,no,medium,yes,low,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,low,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+young,yes,yes,no,no,medium,high,yes,yes,high,yes,medium,yes
+very young,yes,no,no,no,low,high,yes,yes,high,yes,medium,yes
+old,yes,no,no,no,low,low,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,high,no,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,high,yes
+old,no,no,no,no,low,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,low,yes,high,no
+old,yes,yes,no,yes,low,high,yes,yes,medium,yes,high,no
+young,yes,yes,no,yes,low,low,yes,no,low,yes,medium,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,yes
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,low,yes
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,high,yes
+young,no,yes,no,no,low,medium,yes,yes,low,yes,low,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,medium,high,yes,yes,low,yes,high,yes
+very young,yes,yes,no,no,low,medium,no,yes,low,no,medium,no
+young,yes,yes,yes,yes,low,medium,yes,yes,high,yes,high,yes
+very young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,medium,no,yes,medium,yes,medium,no
+young,no,yes,no,no,low,medium,no,yes,medium,yes,low,yes
+old,yes,no,yes,yes,low,medium,no,yes,high,yes,medium,yes
+very old,yes,yes,no,no,low,high,no,yes,low,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,high,no,medium,no
+very old,yes,yes,no,no,low,high,yes,yes,medium,yes,high,no
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,low,no
+young,no,yes,no,yes,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,yes
+old,yes,no,no,yes,low,high,yes,no,medium,yes,high,no
+young,yes,yes,no,no,low,low,no,yes,medium,yes,high,yes
+old,no,no,no,no,low,high,no,yes,low,yes,medium,no
+old,yes,no,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,high,yes
+old,yes,yes,yes,yes,low,high,no,yes,medium,yes,medium,yes
+young,yes,no,no,yes,low,medium,yes,yes,medium,no,low,no
+old,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,yes
+young,yes,no,no,no,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,low,no,yes,low,yes,high,yes
+young,yes,yes,no,no,low,medium,no,yes,high,no,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,yes,yes,high,medium,yes,yes,medium,yes,high,yes
+very young,yes,yes,no,yes,low,high,no,yes,high,yes,high,yes
+very old,no,yes,no,no,low,high,no,yes,medium,yes,low,no
+old,yes,yes,no,yes,low,medium,no,no,high,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,no,low,low,no,no,high,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+old,no,yes,no,no,medium,high,no,yes,high,yes,low,no
+old,yes,yes,no,no,low,low,yes,no,medium,yes,high,no
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+young,yes,yes,yes,yes,medium,medium,yes,yes,medium,yes,high,yes
+very young,yes,yes,no,yes,low,low,no,yes,medium,yes,high,no
+old,yes,no,no,yes,medium,medium,no,no,medium,yes,low,yes
+very old,yes,yes,no,yes,medium,high,yes,yes,high,yes,medium,no
+very young,yes,yes,yes,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+old,yes,no,yes,yes,medium,high,yes,yes,high,yes,medium,no
+young,no,yes,no,no,low,high,yes,yes,medium,no,low,no
+old,yes,no,no,no,medium,high,yes,yes,high,yes,high,yes
+young,yes,yes,yes,no,low,medium,yes,no,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,yes,yes,low,yes,medium,yes
+very old,no,yes,no,no,low,high,no,no,low,yes,medium,no
+old,no,no,no,yes,low,medium,yes,no,low,yes,medium,no
+old,yes,no,no,no,low,medium,no,yes,low,yes,medium,no
+old,no,no,no,no,low,high,no,no,medium,yes,low,no
+old,yes,yes,no,yes,low,medium,yes,no,low,yes,high,yes
+old,yes,yes,no,yes,low,high,yes,yes,low,yes,high,yes
+old,yes,yes,no,no,low,low,yes,yes,low,yes,high,no
+young,yes,no,no,yes,low,low,yes,yes,high,no,low,no
+old,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,yes
+very old,no,no,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,low,yes,yes,low,no,medium,no
+old,no,no,no,yes,low,medium,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+very young,yes,yes,no,yes,low,high,no,yes,low,yes,low,no
+very old,yes,yes,no,yes,medium,high,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+very young,no,no,no,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,high,no
+old,yes,yes,no,yes,medium,high,no,no,medium,yes,medium,yes
+old,yes,yes,no,no,low,high,no,yes,low,yes,medium,no
+young,yes,no,no,yes,medium,medium,yes,yes,medium,yes,high,no
+very young,yes,no,no,yes,low,low,no,yes,low,yes,high,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,low,no
+old,yes,yes,yes,no,low,medium,yes,yes,high,yes,medium,yes
+old,yes,yes,yes,yes,low,low,yes,yes,medium,yes,high,no
+old,no,no,no,no,low,high,yes,no,low,yes,medium,no
+old,yes,yes,yes,yes,low,high,no,yes,medium,yes,medium,yes
+old,no,no,no,yes,low,high,no,yes,high,no,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+very young,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,yes
+very old,no,no,no,yes,low,medium,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,no,no,yes,medium,medium,yes,yes,medium,yes,medium,no
+very old,no,no,no,no,low,high,no,no,low,yes,medium,no
+young,no,no,no,yes,low,low,no,yes,medium,yes,high,no
+young,no,no,yes,no,low,high,no,no,medium,yes,medium,no
+very young,no,no,no,no,low,medium,yes,yes,low,yes,low,yes
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,yes,low,medium,yes,no,medium,yes,medium,yes
+very old,yes,yes,no,no,low,high,yes,no,medium,yes,medium,yes
+old,no,no,no,yes,low,low,yes,no,medium,yes,medium,no
+very young,yes,yes,no,no,medium,high,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,low,no
+young,yes,yes,no,no,low,low,yes,yes,low,no,low,yes
+very young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+old,no,no,no,no,medium,high,yes,yes,medium,yes,high,no
+young,yes,no,no,yes,medium,high,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,no
+old,no,no,no,no,low,high,yes,no,low,yes,low,no
+young,yes,no,no,no,low,low,yes,yes,high,yes,medium,no
+old,yes,no,yes,no,medium,low,no,no,low,yes,high,yes
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,yes
+old,no,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+very old,no,no,no,yes,low,high,yes,yes,low,yes,medium,yes
+young,yes,no,no,no,medium,high,no,yes,high,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,yes
+very young,no,yes,no,no,low,high,no,yes,medium,no,low,no
+young,yes,yes,no,no,low,medium,yes,no,high,yes,low,no
+young,yes,yes,yes,no,low,medium,yes,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,yes
+young,no,no,no,no,low,high,no,yes,high,yes,low,no
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,no,yes,medium,yes,high,no
+old,no,yes,no,no,medium,high,yes,yes,high,yes,high,no
+young,yes,yes,yes,no,low,low,yes,yes,low,yes,high,no
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,no
+very old,yes,yes,no,no,low,high,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,low,yes
+young,yes,yes,no,yes,low,medium,no,no,high,yes,low,no
+young,yes,yes,yes,yes,low,medium,yes,yes,high,yes,high,yes
+very old,no,yes,no,no,low,medium,no,no,high,yes,medium,no
+young,yes,yes,yes,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,no,low,yes,medium,no
+young,no,no,no,no,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,high,yes,low,yes
+old,yes,yes,no,no,low,high,yes,no,high,yes,medium,yes
+young,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,high,yes
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,low,yes,high,no
+very old,no,yes,no,no,low,low,no,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,low,yes,low,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,no,yes,medium,yes,high,no
+old,yes,no,no,yes,low,medium,no,yes,low,no,medium,no
+young,yes,no,no,yes,low,medium,yes,no,high,no,medium,no
+old,no,no,no,yes,low,high,yes,no,medium,yes,medium,yes
+very young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,yes
+young,yes,no,no,no,low,high,no,no,low,yes,low,yes
+young,yes,yes,no,no,low,low,no,yes,low,yes,medium,no
+old,yes,no,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,high,yes
+old,yes,yes,no,no,low,medium,no,yes,high,yes,high,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,no
+old,yes,no,no,no,low,medium,no,no,medium,yes,high,no
+very young,yes,yes,no,yes,low,low,yes,yes,medium,yes,low,yes
+old,yes,yes,yes,yes,low,high,no,yes,high,yes,medium,yes
+young,no,no,no,no,low,low,yes,yes,medium,yes,high,no
+very young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,yes
+old,yes,yes,no,no,low,low,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,low,no,no,high,yes,high,no
+old,yes,yes,no,no,low,medium,no,yes,high,yes,high,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,medium,high,yes,yes,medium,yes,medium,yes
+young,yes,no,no,no,low,high,yes,yes,medium,yes,medium,yes
+old,yes,yes,no,no,low,high,no,no,low,yes,low,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+old,no,no,no,no,medium,medium,yes,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,high,yes,no,medium,yes,high,yes
+very young,yes,no,no,yes,low,low,no,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,high,no,low,no
+young,no,no,no,no,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+young,no,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,high,yes,yes,medium,no,low,no
+very young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+very young,yes,no,no,no,medium,high,yes,yes,high,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+very young,yes,no,no,yes,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,no,low,no,low,no
+very young,yes,no,no,yes,low,high,yes,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,high,yes,yes,medium,no,medium,no
+young,yes,yes,yes,yes,low,low,yes,yes,high,yes,medium,no
+old,yes,yes,yes,no,low,high,no,no,high,yes,medium,no
+young,no,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,yes
+young,yes,no,no,no,low,medium,no,yes,low,yes,low,no
+very old,yes,yes,no,yes,low,high,no,yes,high,yes,medium,no
+very young,yes,no,no,yes,low,high,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,no,no,high,yes,medium,no
+very young,yes,yes,no,no,low,high,yes,yes,medium,yes,low,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,low,no
+old,yes,yes,yes,no,low,low,yes,no,low,yes,high,yes
+young,yes,no,no,yes,low,high,no,yes,medium,yes,low,no
+young,yes,yes,no,no,medium,medium,no,yes,high,yes,high,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,yes,no,low,high,no,no,medium,yes,high,yes
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+very young,yes,yes,no,yes,low,low,no,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,medium,yes,yes,low,yes,medium,no
+young,yes,no,yes,yes,low,high,no,yes,medium,yes,low,yes
+young,no,no,no,no,low,high,no,no,medium,yes,low,yes
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,no
+very old,no,no,no,yes,low,low,yes,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,no,low,yes,low,no
+young,yes,yes,no,no,low,high,no,yes,high,yes,low,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,high,yes
+old,yes,yes,no,no,low,high,no,no,medium,yes,low,no
+young,no,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+very old,no,no,no,yes,low,high,no,yes,low,yes,medium,no
+old,no,yes,no,no,low,high,yes,yes,low,no,low,no
+old,yes,no,no,no,low,high,no,no,low,yes,high,no
+very old,yes,yes,no,no,low,high,no,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,medium,yes,no,high,yes,medium,yes
+old,yes,no,no,yes,low,high,no,no,medium,yes,medium,no
+young,yes,no,no,no,low,medium,no,no,medium,yes,medium,yes
+young,yes,yes,no,no,low,low,yes,yes,low,yes,medium,yes
+very young,yes,no,no,yes,low,high,yes,yes,high,no,medium,no
+old,no,no,no,no,low,medium,yes,no,low,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,yes,low,high,no,no,low,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,low,no,no,low,yes,low,yes
+young,yes,yes,no,yes,low,medium,yes,yes,low,yes,low,yes
+old,yes,yes,yes,yes,low,low,yes,no,medium,yes,high,yes
+old,yes,yes,no,yes,low,medium,no,no,medium,yes,high,no
+very young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+old,yes,no,no,yes,low,high,yes,yes,medium,yes,medium,yes
+very young,no,no,no,no,low,high,no,yes,high,no,low,no
+young,yes,yes,no,yes,medium,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,high,no,yes,low,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,no,high,yes,medium,no
+old,yes,no,no,no,low,high,no,yes,high,yes,high,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,no,yes,no,no,low,medium,yes,yes,high,yes,high,no
+young,no,yes,no,no,low,medium,yes,yes,low,yes,medium,no
+young,no,yes,no,no,low,low,no,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,low,yes,no,medium,yes,low,no
+young,no,no,no,no,low,high,yes,no,medium,yes,medium,no
+old,yes,yes,no,no,low,low,no,yes,low,yes,high,yes
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,low,yes
+old,no,no,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,low,high,no,yes,medium,yes,medium,yes
+very young,yes,no,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,low,no,yes,low,yes,medium,yes
+very young,yes,yes,no,no,low,medium,no,yes,medium,no,medium,no
+old,no,yes,no,no,medium,high,yes,no,low,yes,medium,yes
+very old,yes,yes,no,no,low,high,yes,yes,low,yes,medium,yes
+very young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,high,yes
+old,yes,no,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,no,no,no,low,high,yes,no,medium,yes,medium,no
+old,no,yes,no,no,low,high,yes,no,low,yes,medium,yes
+old,no,yes,no,no,low,medium,yes,no,medium,no,low,no
+young,yes,no,no,yes,low,high,no,no,low,yes,low,yes
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,high,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,yes,no,yes,yes,low,high,yes,yes,medium,yes,high,yes
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,no,no,high,yes,medium,no
+very old,yes,no,no,no,low,high,no,yes,high,yes,medium,yes
+very young,yes,yes,no,yes,low,high,yes,yes,medium,yes,high,no
+young,yes,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+young,yes,no,no,yes,low,high,yes,no,high,yes,low,no
+young,no,yes,no,no,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,medium,no,medium,no
+very old,no,no,no,yes,low,medium,no,no,high,yes,medium,no
+young,yes,no,no,no,low,high,no,no,low,no,medium,no
+very old,yes,yes,no,no,low,high,no,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,high,no,no,medium,yes,high,yes
+old,yes,yes,no,yes,medium,high,yes,no,low,yes,high,yes
+old,yes,yes,no,yes,low,low,no,no,low,yes,high,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,low,no
+old,no,no,no,no,low,low,yes,yes,high,yes,high,no
+very old,no,no,no,yes,low,high,no,yes,high,yes,medium,no
+old,yes,yes,yes,yes,low,low,yes,yes,medium,yes,medium,no
+old,no,no,no,yes,low,high,no,yes,low,yes,medium,no
+young,yes,no,no,yes,low,low,no,yes,low,yes,medium,no
+old,yes,no,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,yes,yes,high,yes,medium,no
+old,no,no,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,medium,medium,no,yes,medium,yes,high,yes
+very young,yes,yes,no,no,low,medium,no,no,low,yes,medium,no
+young,no,yes,no,no,low,medium,yes,no,medium,yes,medium,no
+very young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,high,no
+old,no,no,no,no,low,low,no,yes,medium,yes,low,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,yes
+old,no,yes,no,yes,low,medium,yes,yes,low,yes,high,no
+young,yes,yes,yes,yes,low,low,yes,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,high,no
+old,yes,no,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,no,low,high,no,no,low,yes,high,yes
+very old,no,yes,no,no,low,high,no,no,low,yes,medium,yes
+young,yes,yes,yes,no,low,medium,no,no,medium,yes,high,yes
+young,yes,yes,no,yes,low,low,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,no,yes,high,yes,medium,yes
+old,no,no,no,no,low,high,yes,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,no,no,high,yes,medium,yes
+young,yes,yes,no,no,medium,high,no,yes,medium,yes,medium,no
+young,yes,no,no,no,medium,high,yes,no,medium,yes,medium,no
+young,yes,yes,no,no,medium,low,yes,yes,high,yes,medium,no
+young,no,no,no,yes,low,high,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,no,low,low,no,yes,medium,yes,medium,no
+very young,yes,no,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,medium,no,low,no
+very old,no,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,low,yes,low,no
+old,no,no,no,yes,low,medium,yes,no,medium,no,low,no
+young,yes,yes,no,no,low,low,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,high,yes
+old,yes,no,no,yes,low,medium,yes,yes,high,yes,high,no
+old,no,no,no,no,medium,low,no,yes,high,yes,medium,no
+old,yes,no,yes,yes,low,low,yes,yes,high,yes,high,yes
+old,yes,no,no,no,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,no,yes,yes,low,medium,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,no,yes,medium,yes,low,no
+young,yes,no,no,yes,low,medium,yes,yes,high,yes,medium,yes
+old,no,no,no,no,low,medium,yes,yes,low,yes,medium,no
+old,yes,yes,no,no,low,high,yes,no,medium,yes,medium,yes
+young,yes,yes,no,yes,low,high,no,no,high,yes,high,yes
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,low,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,low,no
+very young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,yes
+old,yes,no,yes,yes,medium,high,yes,no,medium,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,high,yes,low,yes
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,low,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,high,yes
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,high,no
+old,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,yes
+old,no,yes,no,no,low,high,no,no,medium,yes,medium,yes
+old,no,no,yes,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,yes
+very old,yes,yes,no,no,medium,medium,no,no,low,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,medium,no,low,no
+old,yes,no,no,no,low,low,yes,no,low,yes,medium,yes
+very young,yes,yes,yes,no,low,medium,no,yes,medium,yes,medium,yes
+young,no,no,no,no,low,low,no,yes,low,no,low,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,low,yes
+young,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+very old,no,no,no,yes,low,medium,yes,no,medium,yes,low,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,low,no,no,medium,yes,low,yes
+very young,yes,no,no,yes,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,medium,medium,yes,yes,low,yes,high,no
+old,yes,yes,no,no,low,low,no,no,high,yes,medium,no
+old,no,yes,no,no,medium,low,yes,yes,high,yes,medium,no
+young,yes,yes,yes,no,low,high,yes,yes,high,yes,low,no
+very old,no,yes,no,no,low,medium,no,yes,high,no,low,no
+young,yes,yes,no,yes,low,high,no,no,low,yes,low,no
+young,yes,no,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,no,low,high,no,yes,medium,no,low,no
+young,yes,yes,no,yes,low,high,yes,no,medium,yes,medium,yes
+old,yes,yes,no,yes,low,high,yes,no,high,yes,medium,no
+young,yes,yes,no,yes,medium,high,no,yes,high,yes,high,yes
+young,no,no,no,no,low,medium,no,yes,medium,no,medium,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+very old,yes,no,no,no,low,high,yes,no,low,yes,low,no
+old,yes,yes,no,no,low,low,yes,no,low,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,low,yes,high,no
+young,yes,yes,yes,yes,low,low,no,yes,low,yes,low,yes
+very young,yes,yes,yes,yes,low,high,yes,yes,medium,yes,medium,no
+very young,yes,yes,no,yes,low,low,no,no,low,no,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,low,yes,medium,no
+very young,yes,yes,yes,yes,low,medium,no,yes,low,yes,low,yes
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,high,no,no,high,yes,high,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,yes
+young,no,no,no,yes,low,high,yes,yes,medium,yes,medium,no
+very old,no,no,no,no,low,medium,no,yes,medium,no,medium,no
+old,yes,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+very young,yes,no,no,yes,low,medium,yes,yes,medium,no,low,no
+young,yes,yes,no,yes,low,high,yes,no,medium,yes,high,yes
+very old,no,no,no,no,low,high,no,yes,high,no,medium,no
+very young,no,no,no,no,medium,high,yes,yes,medium,yes,medium,no
+old,no,yes,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,low,no,no,low,yes,low,yes
+young,yes,no,yes,yes,low,high,no,yes,high,yes,medium,no
+old,no,yes,no,no,low,low,no,yes,high,yes,medium,no
+very old,no,no,no,yes,low,high,yes,yes,low,yes,medium,yes
+young,yes,no,yes,yes,low,high,yes,yes,medium,yes,low,no
+very old,no,no,no,no,low,medium,no,no,high,yes,low,no
+very old,yes,yes,no,no,low,high,no,no,low,yes,low,yes
+old,no,no,no,yes,low,low,yes,yes,medium,yes,medium,no
+very old,no,no,no,no,low,high,no,no,medium,yes,low,no
+young,yes,no,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,yes,no,low,high,no,no,medium,yes,high,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,yes
+old,yes,yes,no,yes,medium,high,no,no,medium,yes,medium,yes
+old,no,no,no,no,low,medium,yes,yes,low,yes,high,no
+young,yes,yes,no,no,low,high,no,yes,low,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,no,no,medium,yes,low,no
+old,yes,yes,no,no,low,high,yes,no,low,yes,medium,yes
+very old,no,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,no,yes,no,no,low,low,no,yes,high,yes,high,yes
+young,yes,yes,no,no,high,low,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,yes
+old,no,no,yes,yes,low,high,yes,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,no
+old,no,no,no,yes,low,medium,no,yes,medium,yes,low,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,low,yes
+old,no,yes,no,yes,low,low,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,no,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,high,yes,high,no
+young,no,no,no,no,low,medium,yes,yes,medium,yes,medium,yes
+very young,yes,yes,no,yes,low,high,no,yes,high,yes,low,no
+very young,yes,yes,no,yes,low,high,yes,no,high,yes,low,yes
+young,yes,no,no,no,low,high,yes,yes,low,yes,low,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,yes
+old,no,no,no,no,low,low,yes,yes,low,no,low,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,high,yes
+old,no,no,no,no,medium,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,high,yes,high,yes
+very old,no,no,no,yes,low,high,no,no,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,high,no,no,high,yes,high,yes
+old,no,no,no,no,low,high,yes,yes,low,no,low,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+old,yes,yes,yes,yes,low,high,no,no,low,yes,medium,no
+old,no,no,no,no,high,medium,yes,yes,medium,yes,high,no
+very young,yes,yes,no,no,low,medium,no,yes,high,yes,low,no
+old,no,no,no,yes,low,high,no,yes,low,yes,medium,no
+young,no,yes,yes,yes,low,medium,no,no,medium,yes,high,yes
+very young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,yes
+young,no,no,no,no,low,high,yes,yes,high,yes,high,no
+old,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+very young,no,yes,no,yes,low,high,no,no,high,yes,medium,no
+young,no,no,no,no,low,medium,no,yes,medium,yes,medium,no
+young,no,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+very young,yes,no,yes,no,low,high,no,yes,high,yes,medium,no
+old,no,no,no,no,low,high,yes,no,medium,no,low,no
+old,yes,yes,no,yes,low,medium,no,no,low,yes,medium,no
+old,yes,no,no,no,low,medium,no,no,high,yes,medium,no
+very young,yes,no,no,no,low,high,yes,yes,medium,yes,medium,no
+old,no,no,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,low,yes,high,no
+old,yes,no,no,no,low,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,low,yes,high,yes
+very old,yes,no,no,yes,low,low,no,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,medium,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,medium,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,low,yes,low,no
+young,yes,yes,no,yes,low,high,no,no,low,yes,medium,yes
+young,no,no,no,no,low,high,yes,yes,high,yes,medium,no
+very old,no,yes,no,no,medium,high,no,no,low,yes,high,no
+young,yes,yes,yes,yes,low,low,yes,yes,high,yes,low,no
+young,yes,no,no,no,low,low,yes,yes,medium,yes,medium,no
+very old,no,no,no,no,low,high,no,no,medium,yes,low,no
+old,yes,yes,no,yes,low,high,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+old,no,no,no,no,low,low,no,yes,low,yes,medium,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,medium,yes
+young,no,no,no,no,low,medium,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,medium,yes,yes,low,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,medium,yes,low,yes
+old,yes,yes,no,yes,low,high,no,no,low,yes,low,no
+very young,yes,no,no,yes,low,low,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,high,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,low,no
+old,yes,yes,no,no,low,high,no,yes,low,yes,medium,no
+very young,no,no,no,no,low,low,no,yes,medium,yes,low,no
+very young,yes,no,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,no,yes,no,yes,low,high,no,yes,low,yes,medium,yes
+young,yes,no,no,no,medium,high,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,no,medium,no,medium,no
+very old,no,yes,no,no,low,high,yes,no,medium,yes,high,no
+very young,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,yes
+old,no,yes,no,yes,low,low,yes,no,low,no,low,no
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,low,no
+young,yes,yes,yes,yes,low,high,no,yes,medium,yes,medium,yes
+young,no,no,no,no,low,medium,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+young,no,no,no,yes,low,high,no,yes,medium,yes,high,yes
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,no,yes,yes,low,medium,yes,yes,medium,yes,medium,no
+young,no,yes,no,no,low,medium,no,no,low,yes,medium,no
+young,yes,yes,no,yes,low,low,no,yes,medium,no,low,no
+young,yes,no,no,no,medium,high,yes,yes,medium,yes,high,yes
+young,yes,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,no,low,yes,high,no
+young,no,no,no,no,low,high,no,yes,low,yes,medium,no
+very old,no,yes,no,yes,medium,medium,no,yes,high,yes,medium,no
+old,yes,no,no,no,medium,high,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,yes
+very young,yes,yes,yes,no,low,high,yes,yes,high,yes,low,yes
+old,no,no,no,no,low,medium,yes,yes,high,yes,high,no
+old,yes,yes,no,yes,low,medium,yes,no,high,yes,high,no
+very young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,no
+young,no,yes,yes,no,low,medium,yes,yes,medium,yes,high,yes
+very old,no,yes,no,no,low,medium,yes,no,low,no,low,yes
+old,yes,yes,no,no,low,medium,yes,yes,low,yes,high,no
+very young,yes,yes,no,no,low,low,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,no,no,high,yes,low,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,high,no,yes,medium,yes,high,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,high,yes,medium,no
+very old,no,no,no,no,high,high,no,yes,medium,yes,low,no
+young,yes,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+very young,yes,no,no,no,low,high,yes,yes,high,yes,medium,no
+very old,no,yes,no,no,low,high,yes,yes,medium,yes,low,no
+young,yes,yes,no,no,low,low,no,yes,low,yes,high,yes
+very young,no,no,no,yes,low,high,no,yes,high,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,low,yes,low,no
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,low,yes
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+very young,yes,yes,no,no,medium,medium,no,yes,low,yes,medium,yes
+old,yes,yes,no,yes,low,high,no,no,medium,yes,medium,no
+old,no,no,no,no,low,high,yes,no,medium,yes,medium,no
+young,yes,no,no,yes,low,low,no,yes,high,yes,medium,no
+young,yes,no,no,no,low,medium,yes,no,low,no,low,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,low,no
+old,yes,yes,yes,yes,low,high,no,no,high,yes,high,yes
+young,yes,yes,no,no,low,medium,no,no,medium,yes,high,no
+old,no,no,no,yes,low,low,yes,no,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,yes
+old,yes,yes,yes,no,low,medium,yes,yes,high,yes,high,no
+very old,no,no,no,no,medium,high,no,yes,low,yes,medium,no
+old,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,yes
+old,no,no,no,no,low,high,no,no,low,yes,high,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,no,no,no,no,medium,low,yes,yes,low,yes,high,no
+very young,no,no,no,no,low,high,no,yes,high,yes,low,no
+old,yes,yes,yes,yes,low,high,yes,no,high,yes,medium,no
+old,yes,yes,yes,no,low,low,yes,yes,low,yes,high,yes
+young,yes,yes,no,yes,low,high,yes,no,medium,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,no
+old,yes,yes,no,yes,medium,medium,yes,no,low,yes,high,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,low,no
+young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,low,yes,medium,no
+young,no,no,no,yes,low,high,no,no,low,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,low,yes,high,yes
+old,yes,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,yes,no,no,no,low,low,no,no,medium,yes,low,no
+young,yes,yes,no,yes,low,low,no,yes,low,yes,high,yes
+old,yes,no,no,no,low,low,yes,no,medium,yes,medium,no
+very young,yes,no,no,no,low,high,no,yes,high,yes,medium,no
+old,no,no,no,no,low,medium,yes,yes,high,yes,low,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,high,yes
+very young,yes,yes,no,yes,low,high,yes,yes,low,yes,high,yes
+young,yes,yes,no,yes,low,low,no,yes,medium,yes,low,yes
+young,yes,yes,yes,yes,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,low,no,low,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,medium,yes
+old,yes,yes,no,yes,low,low,yes,no,medium,yes,medium,yes
+young,yes,yes,yes,yes,low,high,yes,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,yes
+very young,yes,yes,no,no,low,medium,no,no,low,yes,high,no
+young,yes,no,no,no,low,high,yes,yes,high,yes,high,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,low,yes
+young,yes,no,no,yes,low,medium,no,no,medium,yes,medium,no
+very old,no,no,no,no,low,low,yes,yes,low,yes,high,yes
+old,yes,yes,no,no,low,high,no,no,low,yes,high,yes
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+old,yes,no,yes,yes,low,high,no,yes,low,yes,low,yes
+young,yes,no,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,yes,no,low,high,yes,no,medium,yes,medium,no
+old,no,no,no,yes,low,high,yes,no,low,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,no,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,low,no,yes,high,yes,medium,no
+young,yes,no,no,no,low,low,yes,yes,low,yes,medium,no
+very old,no,no,no,no,low,high,no,no,low,yes,medium,yes
+old,no,no,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,low,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,high,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,high,no
+very young,yes,no,no,no,low,low,no,yes,medium,yes,medium,no
+very young,no,no,no,no,low,high,yes,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,no
+old,yes,no,no,no,medium,high,yes,yes,low,yes,medium,no
+very young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+young,yes,no,no,no,low,low,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,yes
+young,yes,no,no,yes,low,medium,no,yes,medium,yes,medium,yes
+old,yes,yes,no,yes,low,low,yes,no,medium,yes,low,no
+old,yes,yes,no,yes,low,medium,no,no,medium,yes,medium,no
+young,no,yes,no,no,low,low,no,yes,high,yes,medium,no
+old,yes,yes,no,no,medium,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,low,yes,medium,no
+young,no,yes,no,yes,low,low,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,no,low,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,low,no,medium,yes
+old,no,no,no,no,low,medium,no,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,high,yes,no,medium,yes,low,no
+very old,yes,no,no,no,low,high,no,no,low,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,high,yes,high,yes
+old,no,no,no,no,low,medium,yes,yes,medium,yes,high,no
+old,no,no,yes,no,low,medium,yes,yes,high,yes,medium,yes
+young,no,no,no,no,low,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,no,low,high,yes,no,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,medium,yes,medium,no
+young,yes,yes,no,no,medium,medium,yes,yes,high,yes,high,yes
+old,yes,yes,no,yes,low,high,yes,no,medium,yes,medium,no
+young,yes,no,no,no,medium,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,yes
+young,no,no,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,no,medium,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,no
+very old,no,no,no,yes,low,low,no,yes,low,yes,high,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,no,no,no,no,low,medium,yes,yes,low,yes,high,no
+old,no,no,no,no,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,low,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,high,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,low,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,low,yes,medium,no
+young,no,yes,no,no,low,medium,yes,no,medium,yes,low,no
+young,yes,no,no,yes,low,low,no,no,low,no,low,no
+very young,yes,yes,no,no,low,high,no,yes,high,no,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,yes,low,yes,medium,no
+very old,yes,yes,no,no,low,medium,yes,no,high,no,low,no
+young,yes,no,yes,no,low,medium,yes,yes,medium,yes,low,no
+young,no,no,no,yes,low,high,no,yes,high,yes,low,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,medium,medium,yes,yes,medium,yes,high,no
+young,yes,no,no,no,low,medium,no,yes,medium,yes,low,no
+old,yes,yes,no,yes,low,high,yes,no,medium,yes,high,yes
+young,no,no,no,yes,low,medium,no,no,low,yes,medium,no
+very young,yes,yes,no,no,low,high,no,yes,medium,yes,low,no
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+old,no,no,no,no,low,medium,yes,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,yes
+old,yes,yes,no,no,low,medium,yes,no,medium,yes,medium,no
+young,yes,yes,no,no,medium,high,yes,yes,high,yes,medium,no
+very young,yes,yes,no,no,low,medium,no,yes,low,yes,low,no
+very old,no,no,no,no,low,medium,no,no,medium,no,low,no
+young,no,yes,no,no,low,high,no,no,medium,yes,medium,yes
+young,yes,no,yes,yes,medium,high,no,yes,high,yes,medium,yes
+very old,no,no,no,no,low,medium,no,no,low,no,medium,yes
+young,yes,no,no,yes,low,high,yes,no,medium,yes,medium,no
+young,yes,yes,yes,no,medium,high,yes,yes,low,yes,high,no
+young,yes,no,no,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,no,medium,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+old,yes,no,no,no,low,medium,no,no,low,yes,medium,no
+very old,yes,yes,no,no,low,medium,no,yes,low,yes,medium,no
+young,no,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,high,yes
+young,yes,no,no,yes,low,medium,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,low,yes,low,yes
+very young,yes,yes,yes,yes,low,high,no,yes,low,yes,high,yes
+very young,no,no,no,no,low,high,yes,yes,medium,yes,low,no
+young,yes,yes,yes,yes,low,medium,no,no,high,yes,medium,yes
+old,yes,no,no,yes,low,low,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,high,yes,medium,no
+young,yes,no,no,no,low,high,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,low,yes,medium,no
+young,yes,no,no,no,low,medium,yes,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,low,no,no,low,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,high,yes
+old,no,no,no,yes,medium,high,yes,yes,low,yes,high,no
+young,yes,no,yes,yes,low,medium,yes,no,medium,yes,medium,no
+young,yes,no,no,no,low,low,no,yes,low,yes,high,no
+young,yes,yes,yes,no,low,medium,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,low,high,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,yes,yes,medium,yes,high,no
+very young,yes,no,yes,yes,low,high,yes,no,medium,yes,high,yes
+young,yes,yes,no,no,low,low,no,yes,high,yes,medium,no
+old,no,no,no,no,low,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,low,yes,yes,high,yes,high,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,high,yes
+very young,yes,yes,no,yes,low,high,no,no,medium,yes,medium,no
+old,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,low,yes,medium,yes
+very young,yes,yes,no,no,low,low,yes,yes,low,yes,high,no
+very old,no,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+young,no,no,no,no,low,medium,no,yes,high,yes,low,no
+very old,yes,yes,no,yes,medium,high,no,yes,medium,yes,high,no
+old,yes,yes,no,yes,low,high,no,no,low,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,yes,low,low,yes,no,medium,yes,medium,yes
+young,yes,yes,yes,yes,low,high,no,no,high,yes,medium,yes
+old,yes,no,no,yes,low,low,yes,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,no,high,yes,medium,yes
+young,yes,no,no,no,low,medium,no,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,medium,no,yes,medium,yes,high,yes
+young,yes,no,no,no,low,low,yes,yes,low,yes,high,yes
+old,yes,no,no,no,low,low,no,yes,low,yes,medium,no
+old,no,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,high,yes
+very old,yes,yes,no,yes,low,high,no,no,low,yes,medium,yes
+young,no,yes,no,no,medium,medium,no,yes,medium,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,no
+old,no,yes,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,low,no
+old,no,yes,no,no,low,high,no,no,low,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,high,no
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,no,low,no,low,no
+young,yes,yes,no,yes,low,medium,no,no,low,yes,low,no
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,no,high,yes,medium,no
+very old,no,yes,no,yes,low,high,no,no,medium,yes,medium,yes
+young,yes,yes,no,yes,low,high,no,no,low,yes,low,no
+old,yes,no,no,yes,low,high,no,yes,low,yes,high,yes
+very old,yes,yes,no,yes,medium,high,yes,no,low,yes,medium,yes
+young,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,no
+old,yes,no,no,no,low,high,no,yes,low,yes,medium,yes
+very young,yes,yes,no,no,low,high,no,yes,medium,yes,low,yes
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,high,no
+very young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,no
+young,yes,no,no,no,low,high,no,yes,medium,yes,low,yes
+young,yes,no,no,no,low,medium,no,no,medium,yes,low,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,low,yes
+old,no,no,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,low,no,medium,no
+young,yes,yes,no,yes,low,high,no,no,medium,yes,low,no
+very old,no,yes,no,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,low,no,yes,high,yes,high,yes
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+young,yes,no,no,no,high,high,no,yes,high,yes,high,no
+old,yes,no,no,yes,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,medium,high,yes,yes,high,yes,high,yes
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,high,yes
+old,no,no,no,no,low,high,yes,yes,high,yes,medium,no
+old,no,no,no,yes,low,high,no,no,medium,yes,low,yes
+very old,no,yes,no,no,low,high,no,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,no,low,yes,medium,no
+young,yes,no,yes,yes,low,low,no,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,low,no,yes,high,yes,medium,no
+old,no,no,no,no,low,high,no,no,medium,yes,medium,no
+old,yes,no,no,yes,low,high,yes,no,low,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,yes
+very young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+old,no,no,no,no,low,high,no,yes,medium,yes,medium,no
+very young,yes,no,no,no,low,high,no,yes,medium,yes,low,no
+very young,no,no,no,no,low,high,no,yes,low,yes,low,no
+very young,yes,yes,no,no,low,high,no,yes,high,yes,medium,no
+old,yes,yes,no,no,low,low,yes,no,medium,yes,medium,yes
+very young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,medium,yes,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,high,yes
+very old,yes,no,no,no,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,no,low,yes,medium,no
+very young,yes,no,no,no,low,high,no,yes,high,yes,high,yes
+very young,yes,no,no,yes,low,medium,yes,yes,medium,yes,medium,no
+very old,yes,yes,no,yes,high,medium,yes,yes,high,yes,high,yes
+young,yes,yes,no,no,low,low,no,yes,medium,yes,medium,no
+old,yes,no,no,yes,low,high,yes,no,medium,yes,low,yes
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,high,no
+old,yes,no,no,no,low,high,yes,yes,medium,yes,medium,no
+old,no,no,no,no,medium,high,yes,yes,low,yes,high,no
+very old,no,yes,no,no,low,high,no,no,high,yes,medium,no
+very old,no,yes,no,no,low,high,no,no,high,yes,medium,yes
+young,yes,no,yes,no,low,high,no,yes,high,yes,medium,no
+very young,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,yes
+very young,yes,no,no,no,low,high,yes,yes,medium,no,low,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,yes
+young,yes,no,yes,no,high,high,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,medium,no,yes,medium,no,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,low,yes
+old,no,yes,no,no,high,high,yes,yes,medium,yes,high,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,yes
+very young,yes,no,no,no,low,high,no,yes,high,yes,low,no
+young,no,no,no,no,low,medium,no,yes,low,yes,medium,no
+old,yes,yes,no,no,low,low,no,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+old,no,no,no,yes,medium,medium,yes,yes,low,yes,medium,yes
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,high,medium,yes,yes,low,yes,high,yes
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,yes,no,no,no,low,high,yes,yes,high,yes,low,no
+young,yes,no,no,yes,low,high,no,yes,medium,yes,high,yes
+young,yes,no,no,no,low,high,no,yes,high,yes,low,yes
+old,yes,yes,no,yes,low,high,no,no,low,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,no,low,yes,high,yes
+young,yes,yes,no,no,low,high,yes,no,low,no,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,yes,yes,yes,yes,low,low,yes,no,low,yes,medium,yes
+young,yes,no,no,yes,low,high,no,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,high,no,yes,high,yes,high,yes
+old,no,no,no,yes,low,medium,yes,yes,low,yes,high,yes
+young,yes,no,no,no,low,low,no,yes,medium,yes,medium,no
+young,yes,yes,yes,yes,low,high,no,yes,high,yes,medium,no
+very old,no,no,no,yes,low,medium,no,no,low,no,low,no
+young,yes,yes,no,yes,low,low,no,yes,high,yes,low,yes
+very young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,yes
+very old,no,no,no,no,low,medium,no,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,high,no,yes,high,yes,high,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,yes
+old,yes,yes,no,no,medium,medium,yes,no,medium,yes,medium,no
+very young,yes,yes,yes,no,low,low,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,low,no,yes,high,yes,medium,yes
+old,no,no,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,yes,medium,medium,yes,no,medium,yes,high,no
+old,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,yes
+very old,no,no,no,no,low,medium,no,no,low,yes,medium,yes
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,high,yes
+old,yes,yes,no,yes,low,low,yes,yes,low,yes,high,no
+young,no,no,no,no,low,medium,yes,yes,medium,yes,high,yes
+young,yes,yes,no,no,low,high,no,no,medium,yes,low,no
+very young,yes,yes,no,yes,low,medium,no,yes,high,yes,high,yes
+young,yes,no,no,yes,medium,high,no,yes,medium,yes,high,no
+young,yes,no,no,no,low,high,no,yes,high,yes,high,no
+old,yes,yes,no,no,low,medium,yes,no,medium,yes,medium,no
+very old,no,yes,yes,no,low,low,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,no
+old,no,no,no,no,low,medium,yes,no,high,no,medium,no
+old,yes,yes,no,no,low,medium,yes,no,high,yes,medium,no
+old,yes,yes,no,yes,medium,high,yes,yes,medium,yes,low,yes
+old,yes,no,no,no,low,high,yes,no,medium,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,medium,yes,high,no
+old,yes,no,yes,no,low,low,yes,no,high,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,high,yes,high,yes
+old,yes,no,yes,yes,low,high,no,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,high,yes,no,high,yes,medium,yes
+old,no,no,no,no,low,low,yes,yes,low,no,high,no
+very young,no,yes,no,no,low,low,yes,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,no,no,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,medium,yes,medium,no
+very old,yes,yes,no,no,low,high,no,yes,low,yes,high,no
+old,yes,yes,yes,yes,low,high,yes,no,medium,yes,high,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,no,no,no,no,medium,high,yes,no,medium,yes,high,no
+young,no,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,low,yes,medium,yes
+very young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,no,low,medium,yes,no,medium,yes,high,no
+young,yes,yes,no,no,low,high,no,yes,high,yes,high,no
+very young,no,no,no,yes,low,high,no,yes,low,yes,low,yes
+young,yes,no,no,no,low,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+very old,no,no,no,no,low,medium,no,no,low,yes,low,no
+old,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,no,high,yes,medium,no
+very old,no,no,no,yes,low,medium,no,yes,high,yes,low,no
+very old,no,no,no,yes,low,low,no,no,low,no,low,yes
+young,yes,yes,yes,no,low,medium,no,yes,high,yes,low,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,high,no
+old,yes,yes,no,no,medium,high,yes,yes,medium,yes,medium,no
+old,yes,yes,no,no,low,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,high,no,no,high,yes,medium,no
+old,yes,yes,no,no,low,medium,no,no,medium,no,low,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,high,no
+old,yes,no,no,no,medium,low,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,no,medium,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+very young,yes,no,no,yes,low,high,no,yes,medium,yes,low,no
+young,no,no,no,yes,medium,medium,yes,yes,medium,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,no,high,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,low,yes,medium,yes
+very old,no,yes,yes,yes,low,high,no,no,high,yes,medium,yes
+young,no,yes,no,no,low,high,yes,no,low,yes,low,no
+young,yes,yes,no,yes,medium,high,no,yes,medium,yes,high,yes
+very old,no,no,no,no,low,high,no,yes,low,yes,medium,no
+old,no,no,no,no,low,low,yes,yes,low,yes,medium,no
+old,no,yes,no,no,medium,high,no,no,low,yes,medium,yes
+young,yes,no,no,yes,low,medium,yes,yes,high,yes,high,yes
+young,yes,yes,no,no,low,high,no,yes,high,yes,high,no
+old,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,no
+very old,no,yes,no,no,low,high,no,yes,low,yes,medium,yes
+young,yes,no,no,yes,low,medium,no,yes,high,yes,low,no
+old,yes,yes,no,no,low,high,yes,no,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,high,high,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,high,no
+very young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+very young,no,no,no,no,medium,low,no,no,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,low,yes
+old,yes,yes,no,yes,low,high,no,no,low,yes,low,no
+old,yes,no,no,no,low,low,yes,no,low,yes,low,no
+old,yes,yes,no,yes,low,low,yes,no,low,yes,medium,yes
+young,no,no,no,no,low,high,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,low,yes,high,yes
+very old,yes,yes,no,no,low,high,no,no,high,yes,low,no
+old,yes,yes,no,yes,low,medium,yes,no,high,yes,high,yes
+very old,no,yes,no,yes,low,low,no,no,medium,yes,medium,yes
+young,yes,yes,yes,yes,low,medium,yes,yes,high,yes,medium,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,high,no,yes,low,yes,medium,no
+old,no,no,no,yes,low,low,no,no,low,yes,low,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,low,no
+very young,yes,yes,no,yes,medium,low,yes,yes,low,yes,medium,yes
+very old,yes,yes,no,no,low,medium,no,yes,low,yes,high,yes
+old,yes,yes,no,yes,low,high,no,no,medium,yes,high,yes
+old,yes,yes,no,no,low,low,yes,yes,high,yes,high,no
+very old,no,yes,no,yes,low,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,no,low,low,no,yes,low,yes,medium,no
+old,no,yes,no,no,low,medium,no,no,low,yes,low,no
+young,yes,no,no,yes,low,low,no,yes,low,yes,medium,no
+very young,no,yes,no,yes,low,medium,no,no,low,yes,medium,no
+old,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+very old,no,yes,no,no,low,low,no,no,high,no,low,no
+old,yes,no,no,yes,low,medium,no,no,medium,no,low,no
+old,yes,yes,no,yes,low,medium,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,yes,high,yes,medium,yes
+young,yes,no,no,no,low,high,no,yes,medium,yes,high,no
+old,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+very old,no,no,no,no,low,medium,no,no,high,yes,medium,no
+young,yes,yes,no,yes,low,low,yes,yes,high,yes,medium,yes
+very old,yes,yes,no,no,high,medium,no,yes,medium,yes,high,yes
+young,yes,yes,yes,yes,low,high,yes,yes,high,yes,high,yes
+old,yes,no,no,no,low,medium,no,yes,low,yes,low,no
+young,yes,yes,yes,no,low,medium,yes,yes,low,no,medium,no
+very old,no,yes,no,no,low,high,no,yes,high,yes,medium,no
+old,no,no,no,yes,low,medium,yes,yes,low,yes,medium,no
+old,yes,no,no,no,low,high,no,yes,low,yes,medium,yes
+old,yes,yes,yes,yes,low,high,yes,no,medium,yes,high,yes
+old,yes,no,yes,no,low,high,yes,no,medium,yes,medium,no
+old,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+old,no,no,no,no,low,high,yes,no,low,yes,low,no
+young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,yes
+old,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,medium,yes,yes,low,yes,medium,no
+old,yes,no,yes,yes,low,high,yes,yes,high,yes,high,yes
+young,yes,no,no,no,medium,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,low,yes
+very young,no,no,no,no,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,high,no,medium,no
+very young,yes,no,no,yes,low,low,no,yes,low,yes,medium,no
+old,yes,yes,no,no,low,high,no,no,low,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,no,low,yes,high,yes
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,yes
+very young,yes,yes,no,yes,low,high,no,yes,high,yes,high,yes
+young,yes,yes,no,yes,low,low,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,high,no,no,high,yes,medium,yes
+old,yes,yes,no,yes,low,medium,yes,yes,low,yes,medium,no
+very young,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,yes
+old,no,no,no,no,low,medium,yes,no,high,yes,medium,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,low,no
+very old,no,no,no,no,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,low,yes
+old,yes,no,no,yes,low,high,yes,yes,medium,yes,high,yes
+very young,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,no,no,no,medium,medium,no,yes,high,yes,medium,yes
+very young,yes,yes,no,no,low,medium,no,yes,medium,yes,low,yes
+very old,yes,yes,no,yes,low,medium,no,no,medium,yes,high,yes
+young,yes,yes,no,yes,low,low,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,high,yes,medium,no
+young,yes,no,no,no,low,high,no,yes,medium,no,low,yes
+old,no,yes,yes,yes,low,low,yes,yes,high,yes,high,yes
+very young,yes,yes,no,no,medium,low,yes,yes,medium,yes,medium,no
+old,no,no,no,no,low,medium,no,yes,high,no,medium,no
+old,no,no,no,yes,low,high,yes,yes,low,yes,medium,no
+old,no,no,no,yes,medium,medium,no,yes,high,yes,high,yes
+old,no,no,no,no,low,high,yes,yes,high,yes,low,no
+young,yes,yes,no,yes,low,low,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,low,no,no,low,yes,medium,no
+very young,no,no,no,no,low,high,no,yes,high,yes,low,no
+old,yes,yes,no,yes,low,medium,no,yes,medium,yes,medium,yes
+very young,yes,yes,no,no,low,high,no,yes,high,yes,high,no
+old,yes,yes,no,yes,low,low,no,no,medium,yes,low,no
+old,no,no,no,no,high,high,no,yes,high,yes,high,no
+young,yes,no,no,yes,low,medium,yes,yes,medium,yes,high,yes
+old,yes,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+very old,no,yes,no,no,low,medium,no,no,low,yes,low,no
+old,no,no,no,yes,low,low,yes,yes,low,yes,medium,yes
+very old,yes,yes,no,yes,low,high,no,yes,medium,yes,high,yes
+young,no,no,no,no,low,medium,yes,yes,high,yes,medium,no
+very young,yes,yes,no,yes,medium,high,yes,yes,low,yes,medium,yes
+young,yes,yes,yes,yes,low,medium,no,yes,high,no,medium,no
+old,no,no,no,yes,low,medium,yes,yes,medium,yes,high,yes
+old,no,yes,no,no,low,high,yes,yes,medium,no,low,no
+old,no,no,no,no,low,high,no,no,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,no,no,low,yes,medium,no
+young,yes,no,no,no,low,low,no,yes,low,yes,medium,no
+old,no,no,no,yes,low,low,yes,no,high,yes,medium,no
+young,yes,no,no,yes,low,high,yes,yes,high,yes,medium,yes
+old,no,no,no,no,medium,high,yes,yes,medium,yes,medium,no
+young,yes,no,no,yes,low,medium,no,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,medium,yes
+young,yes,no,no,no,low,low,no,yes,high,yes,low,no
+old,yes,no,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,low,high,yes,yes,high,yes,medium,no
+young,yes,yes,yes,yes,high,high,yes,yes,high,yes,high,yes
+old,yes,no,no,no,low,high,no,yes,low,yes,medium,no
+old,no,no,no,no,low,low,yes,yes,low,yes,medium,no
+young,yes,no,yes,no,low,medium,no,yes,medium,yes,medium,yes
+young,yes,yes,yes,no,low,medium,yes,yes,low,yes,medium,yes
+old,no,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,no,high,no,low,yes
+young,no,no,no,no,low,low,no,yes,low,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,low,no
+old,no,no,no,no,low,high,no,yes,low,yes,medium,yes
+old,no,no,no,no,low,low,no,no,low,no,high,yes
+old,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,no,no,no,low,medium,no,yes,medium,yes,medium,no
+old,yes,yes,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,low,no
+old,no,yes,no,no,low,high,yes,no,low,yes,medium,no
+young,yes,yes,no,no,low,low,yes,no,low,no,low,no
+old,no,yes,no,no,low,medium,no,no,medium,yes,medium,no
+young,no,no,no,no,low,high,no,yes,high,no,low,no
+very old,no,yes,no,yes,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,yes,low,high,no,no,low,yes,medium,yes
+young,yes,yes,no,no,low,low,no,no,high,yes,high,no
+young,yes,yes,no,yes,low,low,no,no,high,yes,medium,no
+old,yes,no,no,no,low,high,no,no,medium,yes,medium,no
+very young,yes,yes,no,no,low,medium,no,no,high,yes,low,no
+very young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,medium,yes,yes,low,yes,medium,no
+old,no,no,no,yes,low,high,yes,yes,medium,no,low,no
+young,yes,yes,no,yes,low,high,yes,no,low,yes,high,no
+young,yes,yes,no,no,low,high,yes,yes,low,yes,high,yes
+young,yes,no,no,no,low,high,no,yes,medium,yes,low,no
+old,yes,yes,no,no,low,high,no,yes,medium,yes,medium,yes
+old,yes,yes,no,yes,low,low,no,yes,medium,yes,medium,no
+very young,no,no,no,yes,low,low,no,no,medium,yes,medium,no
+young,yes,yes,yes,no,low,low,no,yes,medium,yes,medium,yes
+young,yes,yes,no,yes,low,high,yes,yes,high,yes,high,yes
+very young,yes,yes,no,no,low,high,no,yes,high,yes,high,no
+young,yes,yes,no,yes,low,low,no,yes,low,yes,medium,no
+young,no,no,no,yes,low,low,yes,yes,medium,no,medium,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,medium,no
+old,yes,yes,no,yes,medium,medium,yes,no,low,yes,medium,yes
+old,yes,no,no,no,low,high,yes,yes,high,yes,low,no
+young,yes,no,no,no,low,high,no,no,high,yes,medium,no
+young,yes,no,no,no,low,low,no,yes,high,yes,high,no
+young,no,no,no,no,low,high,no,yes,high,yes,high,no
+young,yes,no,no,no,medium,high,no,yes,high,yes,high,no
+very young,yes,yes,no,yes,medium,high,yes,yes,medium,yes,high,no
+very young,yes,no,no,no,medium,low,yes,yes,medium,yes,medium,no
+young,yes,yes,yes,no,medium,medium,yes,yes,high,yes,medium,yes
+young,yes,yes,no,yes,medium,medium,yes,yes,high,yes,high,yes
+young,no,no,no,no,low,high,no,yes,low,yes,medium,no
+young,yes,no,no,yes,low,medium,no,yes,medium,yes,low,no
+very young,yes,yes,no,no,low,high,yes,yes,medium,yes,low,no
+very old,no,no,no,no,low,low,no,yes,medium,no,medium,no
+old,yes,yes,no,no,low,medium,no,yes,low,yes,high,yes
+young,no,yes,no,yes,low,medium,yes,yes,low,no,medium,no
+old,no,no,no,no,medium,high,yes,yes,medium,no,medium,no
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,low,yes
+young,yes,yes,no,yes,low,high,no,yes,high,yes,high,no
+young,no,yes,no,no,low,low,no,no,medium,yes,low,yes
+very old,no,yes,no,no,low,high,no,no,medium,yes,low,no
+young,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+old,no,no,no,no,low,medium,yes,no,medium,yes,high,no
+young,yes,no,no,no,low,high,yes,yes,medium,yes,medium,no
+young,no,no,no,no,low,low,no,yes,low,yes,low,no
+old,yes,yes,no,no,low,low,yes,yes,low,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,low,yes
+young,yes,no,no,no,low,medium,yes,yes,high,yes,high,no
+old,yes,yes,no,no,low,low,no,yes,low,yes,low,yes
+young,yes,no,no,yes,low,high,no,yes,high,yes,medium,no
+very old,no,no,no,yes,low,medium,yes,yes,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,high,no,low,no
+old,yes,yes,no,yes,low,high,no,yes,high,yes,high,no
+old,yes,no,no,yes,low,high,yes,no,medium,yes,high,yes
+young,yes,yes,no,no,low,high,no,no,medium,yes,low,no
+young,yes,no,no,no,low,medium,no,no,medium,yes,low,no
+young,no,no,no,yes,low,high,no,yes,low,yes,low,no
+old,no,no,yes,no,low,high,no,yes,low,yes,medium,yes
+old,yes,yes,no,yes,medium,low,yes,yes,low,yes,medium,yes
+young,yes,no,no,no,low,high,no,no,high,yes,low,no
+very young,yes,no,yes,yes,low,medium,yes,yes,high,yes,medium,yes
+young,yes,yes,no,no,low,low,no,yes,high,no,medium,no
+young,no,no,no,no,low,medium,yes,yes,high,yes,medium,no
+young,no,no,no,no,low,high,yes,no,medium,yes,low,no
+young,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+very old,no,yes,no,no,low,low,yes,yes,medium,yes,medium,no
+very old,no,yes,no,no,low,high,yes,yes,high,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,yes
+old,yes,no,no,no,low,medium,yes,no,medium,yes,high,no
+old,no,no,no,no,low,medium,yes,no,high,yes,medium,no
+old,no,no,yes,yes,low,high,yes,yes,high,yes,medium,no
+old,yes,no,no,yes,low,high,yes,no,high,yes,low,no
+old,yes,yes,no,no,low,high,yes,no,medium,yes,medium,no
+old,no,no,no,no,low,low,yes,yes,medium,yes,medium,no
+young,no,no,no,yes,low,high,yes,yes,low,yes,medium,yes
+very young,yes,yes,no,no,low,low,yes,yes,high,yes,high,yes
+very old,yes,yes,no,yes,low,high,no,yes,medium,yes,low,yes
+young,yes,yes,no,no,low,high,no,no,medium,yes,medium,no
+old,yes,yes,no,no,medium,medium,yes,no,high,yes,medium,yes
+young,yes,yes,no,yes,low,high,no,yes,medium,yes,medium,no
+very young,yes,yes,no,no,low,low,no,no,low,yes,medium,yes
+old,no,no,no,yes,low,high,yes,yes,low,yes,medium,no
+young,no,yes,no,yes,low,high,yes,yes,low,yes,medium,no
+old,no,no,no,no,medium,medium,yes,yes,medium,yes,high,yes
+young,yes,yes,yes,no,low,low,yes,yes,low,yes,high,no
+young,yes,yes,no,yes,low,low,yes,no,low,yes,low,no
+very old,no,yes,no,yes,low,medium,no,yes,high,yes,medium,no
+young,yes,yes,no,yes,low,medium,no,no,medium,yes,low,yes
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+old,no,no,no,no,low,low,yes,yes,medium,yes,high,no
+young,yes,no,no,no,medium,low,yes,yes,medium,no,medium,no
+old,yes,yes,no,no,low,medium,yes,no,medium,yes,medium,no
+young,no,no,no,yes,low,medium,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,no,yes,low,yes,high,no
+young,no,yes,no,no,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,low,yes,yes,medium,yes,medium,no
+very young,no,no,no,no,low,medium,no,yes,high,yes,high,no
+young,yes,no,yes,yes,low,medium,yes,yes,high,yes,medium,no
+old,no,no,no,no,medium,high,no,no,medium,no,medium,no
+old,no,no,no,no,low,high,no,yes,medium,yes,medium,yes
+old,no,no,no,no,low,low,yes,yes,low,no,medium,no
+young,yes,yes,no,yes,low,high,yes,yes,medium,yes,medium,yes
+young,no,no,no,no,low,high,no,no,medium,yes,medium,no
+very old,yes,yes,no,no,low,high,no,no,high,yes,low,no
+old,yes,yes,yes,no,low,high,yes,yes,medium,yes,medium,yes
+young,yes,yes,no,no,medium,medium,no,yes,high,yes,medium,no
+very old,no,no,no,no,low,medium,yes,yes,high,yes,low,no
+very young,yes,no,no,no,low,medium,yes,yes,medium,yes,low,yes
+young,yes,no,no,no,low,high,yes,yes,high,yes,low,no
+young,yes,yes,no,no,low,low,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,medium,yes,yes,medium,yes,high,no
+young,yes,yes,no,no,medium,high,yes,yes,high,yes,high,no
+old,yes,yes,no,yes,medium,medium,yes,yes,high,yes,high,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,medium,no
+old,no,yes,no,no,low,low,no,no,medium,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,high,yes,medium,no
+old,yes,yes,no,no,low,low,yes,yes,high,yes,medium,no
+very young,yes,yes,no,no,low,medium,no,yes,high,yes,medium,yes
+old,yes,yes,no,yes,medium,high,yes,no,low,yes,high,yes
+young,yes,no,no,no,low,medium,yes,yes,medium,yes,high,no
+very old,no,yes,no,yes,low,high,no,yes,low,yes,high,no
+young,yes,yes,yes,no,low,high,no,yes,low,yes,high,yes
+old,yes,yes,no,yes,low,low,no,yes,high,yes,medium,no
+young,yes,yes,no,no,low,high,no,yes,medium,yes,medium,no
+old,yes,no,no,no,low,high,yes,no,medium,yes,medium,no
+young,yes,no,no,yes,low,medium,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,medium,low,yes,yes,low,yes,medium,no
+old,no,yes,no,no,medium,high,yes,yes,medium,yes,high,no
+old,no,no,no,no,low,low,no,yes,medium,no,low,no
+old,yes,yes,no,no,low,high,yes,yes,medium,yes,medium,no
+young,yes,yes,no,no,low,high,yes,yes,low,yes,medium,yes
+old,yes,yes,no,yes,low,medium,yes,yes,low,yes,low,no
+very old,no,yes,no,no,low,medium,no,no,medium,yes,low,no
+young,yes,yes,no,no,low,medium,no,no,medium,yes,low,no
+young,no,yes,no,no,low,low,yes,yes,high,yes,medium,no
+young,yes,yes,no,no,low,low,no,yes,low,yes,high,yes
+very young,yes,no,no,no,high,high,no,yes,high,yes,medium,no
+old,yes,no,no,yes,low,medium,no,no,low,yes,medium,no
+very old,no,no,no,no,low,high,no,yes,low,yes,low,no
+old,yes,yes,no,no,medium,high,yes,yes,high,yes,high,yes
+old,yes,no,no,no,low,high,yes,no,low,yes,medium,yes
+old,no,no,no,no,low,high,yes,no,medium,yes,medium,no
+very old,no,no,no,no,low,high,no,no,medium,yes,medium,no
+old,no,yes,no,no,low,high,no,no,high,yes,low,no
+very young,yes,yes,no,no,low,high,no,no,medium,yes,medium,no
+young,yes,yes,no,yes,low,high,no,no,low,yes,medium,no
+young,yes,yes,no,no,low,medium,yes,yes,medium,yes,medium,no
+young,no,no,no,yes,low,low,no,yes,medium,yes,low,no
+old,yes,no,no,yes,low,low,no,yes,low,yes,medium,no
+old,no,no,no,yes,low,high,no,yes,high,yes,medium,no
+very old,yes,yes,yes,no,low,low,no,no,medium,no,medium,no
+very young,yes,no,no,no,low,high,no,yes,low,yes,medium,no
+young,yes,yes,no,no,low,high,yes,no,medium,yes,high,no
+young,yes,yes,no,no,low,high,yes,no,high,yes,medium,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,high,no
+very old,yes,yes,no,no,low,high,no,no,high,yes,low,no
+old,yes,yes,no,no,low,high,yes,yes,low,yes,high,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,medium,no
+young,no,no,no,no,low,high,yes,no,low,yes,low,no
+young,yes,yes,no,no,medium,medium,yes,yes,medium,yes,medium,no
+old,no,no,no,no,low,high,no,yes,high,no,medium,no
+young,yes,yes,yes,no,low,low,no,yes,high,yes,low,yes
+very young,yes,no,no,no,low,low,yes,yes,high,yes,low,no
+young,yes,no,no,yes,low,high,yes,yes,low,yes,low,no
+old,yes,yes,no,no,medium,low,no,no,low,yes,high,no
+young,yes,yes,no,yes,low,high,no,yes,high,yes,high,yes
+young,yes,yes,no,no,medium,high,no,yes,high,yes,high,no
+young,yes,no,no,no,low,medium,yes,yes,high,yes,low,no
+young,yes,no,no,yes,low,high,no,yes,medium,yes,medium,no
+young,yes,yes,yes,no,low,high,yes,yes,high,yes,medium,no
+very old,yes,yes,no,yes,low,high,no,no,medium,yes,high,yes
+young,yes,yes,no,yes,low,high,no,yes,high,yes,medium,yes
+old,no,no,no,no,low,low,yes,no,high,yes,low,no
+young,yes,no,no,yes,low,high,yes,yes,high,yes,low,no
+old,no,no,no,no,low,high,yes,yes,medium,yes,low,no
+old,no,no,no,no,low,high,no,yes,high,no,low,no
+old,yes,yes,no,no,low,medium,yes,no,medium,yes,medium,no
+young,no,yes,no,yes,low,high,no,no,high,yes,medium,no
+young,yes,yes,no,no,low,medium,no,yes,medium,yes,high,no
+old,no,yes,no,no,low,high,yes,yes,low,yes,medium,no
+old,yes,yes,no,yes,low,low,yes,yes,medium,yes,high,yes
+young,yes,yes,no,no,low,high,no,yes,high,yes,low,no
+young,yes,yes,no,yes,low,medium,no,yes,low,yes,medium,yes
+young,yes,yes,no,no,low,medium,no,yes,low,no,medium,no
+old,yes,yes,no,yes,low,high,no,no,low,yes,low,no
+old,yes,yes,no,yes,medium,high,no,no,low,yes,high,yes
+old,yes,yes,no,yes,medium,medium,no,yes,medium,yes,high,yes
+old,yes,yes,no,no,low,high,yes,yes,high,yes,medium,no
+very young,yes,yes,no,no,medium,low,yes,yes,low,yes,medium,no
